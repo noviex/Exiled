@@ -328,7 +328,6 @@ exports.commands = {
 		room.add(User + ' has bopped ' + target + 'in the face!');
 		targetUser.popup("Get bopped boi");
 	},
-    },
 	/*
 	MEME RANDOMIZER
 	Coded by:
